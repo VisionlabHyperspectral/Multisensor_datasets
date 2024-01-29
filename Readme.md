@@ -14,6 +14,6 @@ If you use this dataset please do not forget to cite the following paper:
 
 B. Koirala et al., "A Multisensor Hyperspectral Benchmark Dataset For Unmixing of Intimate Mixtures," in IEEE Sensors Journal, doi: 10.1109/JSEN.2023.3343552
 
-The dataset can be downloaded by clicking the following link: https://drive.google.com/file/d/1CwRWyDJJLd-40FFjthiCmkPnTBxG1lXl/view?usp=drive_link
+The dataset can be downloaded by clicking the following link: https://drive.google.com/file/d/1L6WqHplACCBusLRK6coZdncfc_AtBw7N/view
 
 Please feel free to contact bikram.koirala@unatwerpen.be for further information regarding the dataset.
