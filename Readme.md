@@ -12,8 +12,7 @@ considered, i.e., 10 binary combinations, 10 ternary combinations, 5 quaternary 
 
 If you use this dataset please do not forget to cite the following paper:
 
-Bikram Koirala, Behnood Rasti, Zakaria Bnoulkacem, Andrea de Lima Ribeiro, Yuleika Madriz, Erik Herrmann, Arthur Gestels, Thomas De Kerf, Sandra Lorenz,
-Margret Fuchs, Koen Janssens, Gunther Steenackers, Richard Gloaguen, and Paul Scheunders, "A Multisensor Hyperspectral Benchmark Dataset For Unmixing of Intimate Mixtures,"
+B. Koirala et al., "A Multisensor Hyperspectral Benchmark Dataset For Unmixing of Intimate Mixtures," in IEEE Sensors Journal, doi: 10.1109/JSEN.2023.3343552
 
 The dataset can be downloaded by clicking the following link: https://drive.google.com/file/d/1CwRWyDJJLd-40FFjthiCmkPnTBxG1lXl/view?usp=drive_link
 
