@@ -1,7 +1,7 @@
 # A Multisensor Hyperspectral Benchmark Dataset For Unmixing of Intimate Mixtures 
 
 In this work, we generated a comprehensive hyperspectral dataset of intimate mineral powder mixtures by homogeneously
-mixing five different clay powders (Kaolin, Roof clay, Red clay, mixed clay, and Calcium hydroxide). We generated a 
+mixing five different clay powders (Kaolin (sample number 330), Roof clay (sample number 120), Red clay (sample number 36), mixed clay (sample number 8), and Calcium hydroxide (sample number 1)). We generated a 
 total of 325 mixtures by mixing these five pure clay powders. All possible clay combinations of these powders were 
 considered, i.e., 10 binary combinations, 10 ternary combinations, 5 quaternary combinations, and one quinary combination.
 
